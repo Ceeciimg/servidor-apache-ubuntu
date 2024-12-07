@@ -18,9 +18,7 @@ Este repositorio contiene los archivos relacionados con el ejercicio de configur
 - Configuración de IP estática y uso de `VirtualHost` para asignar una página web diferente a cada tarjeta de red.
 
 ## Capturas de pantalla
-Puedes ver las capturas de pantalla y explicaciones detalladas del ejercicio en el siguiente archivo PDF:
-
-[Capturas de pantalla del ejercicio](Cecilia_Molina_Servidor_Apache_Ubuntu.pdf)
+Puedes ver las capturas de pantalla y explicaciones detalladas del ejercicio en el siguiente archivo PDF adjuntado
 
 ## Autor
 - **Cecilia Molina**
